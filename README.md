@@ -29,6 +29,10 @@ Here are some ideas to get you started:
   <a href="https://vk.com/safroalex">
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
  </a> 
+    
+  <a>
+    <img src="https://img.shields.io/badge/Email: alexsafr.a@ya.ru-red?logo=email&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+ </a> 
   
   <h1>
   who are you stranger?
