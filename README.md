@@ -30,9 +30,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
  </a> 
     
-  <a>
-    <img src="https://img.shields.io/badge/Email: alexsafr.a@ya.ru-red?logo=email&logoColor=white&style=for-the-badge" alt="Email Badge"/>
- </a> 
+ <a>
+    <img src="https://img.shields.io/badge/-EMAIL%3A%20alexsafr.a%40ya.ru-red" alt="Email Badge"/>
+ </a>  
   
   <h1>
   who are you stranger?
