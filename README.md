@@ -46,9 +46,9 @@ Here are some ideas to get you started:
   <div id="about me" align="left">
   
   ### :man_technologist: About Me :
- I am:
-    -studying at Peter the Great University in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.
-    -doing an internship in an IT campaign.
+ I am:\
+    - :telescope: studying at Peter the Great University in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.\
+    - :zap: doing an internship in an IT campaign.
   
   </div>
   
