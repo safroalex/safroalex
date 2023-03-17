@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=buefy&mode=weekly)](https://git.io/streak-stats)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs,issues)](https://github.com/safroalex/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=buefy&hide=Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
   </div>
