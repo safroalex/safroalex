@@ -76,6 +76,7 @@ Here are some ideas to get you started:
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs,issues)](https://github.com/safroalex/github-readme-stats)
   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=buefy&hide=Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   
  </div>
