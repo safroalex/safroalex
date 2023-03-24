@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   
- <img src="https://github.com/safroalex/safroalex/blob/main/загруженное.png" width="1500"/>
+ <img src="https://github.com/safroalex/safroalex/blob/main/name.png" width="1500"/>
   
   <div id="badges" align="center">
 
