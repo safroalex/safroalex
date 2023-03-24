@@ -30,11 +30,7 @@ Here are some ideas to get you started:
   
   <a href="https://vk.com/safroalex">
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
- </a> 
-    
-  <a href="https://unsplash.com/@safroalex">
-    <img src="https://img.shields.io/badge/Unsplash-white?logo=Unsplash&logoColor=black&style=for-the-badge" alt="Unsplash Badge"/>
- </a> 
+ </a>
   
   #### email: alexsafr.a@ya.ru
     
@@ -50,7 +46,11 @@ Here are some ideas to get you started:
  I am:\
     - :telescope: studying at Peter the Great University in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.\
     - :zap: doing an internship in an IT campaign.
-  
+    
+ My hobby:\
+    - photo  :<a href="https://unsplash.com/@safroalex">
+    <img src="https://img.shields.io/badge/Unsplash-white?logo=Unsplash&logoColor=black&style=for-the-badge" alt="Unsplash Badge"/>
+ </a> 
   </div>
   
   ---
