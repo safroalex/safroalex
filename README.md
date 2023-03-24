@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   
- <img src="https://media.giphy.com/media/MFmYx2jAo1JfB6PTlp/giphy.gif" width="200"/>
+ <img src="https://github.com/safroalex/safroalex/blob/main/загруженное.png" width="1500"/>
   
   <div id="badges" align="center">
 
+  ### who are you stranger?
+    
   <a href="https://t.me/safroalex">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
  </a>
@@ -29,15 +31,10 @@ Here are some ideas to get you started:
   <a href="https://vk.com/safroalex">
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
  </a> 
+  
+  #### email: alexsafr.a@ya.ru
     
- email: alexsafr.a@ya.ru
-  
-  <h1>
-  who are you stranger?
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>   
-  
-  <img src="https://media.giphy.com/media/5Hx5bfpf3ojCADpfxb/giphy.gif" width="645"/>
+  <img src="https://media.giphy.com/media/5Hx5bfpf3ojCADpfxb/giphy.gif" width="1500"/>
 
  </div>
   
