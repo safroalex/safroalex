@@ -72,11 +72,18 @@ Here are some ideas to get you started:
   
   ### :fire: My Stats :
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=buefy&mode=weekly)](https://git.io/streak-stats)
+  #### GitHub
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=buefy&mode=weekly)](https://git.io/streak-stats)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)
-  
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=buefy&hide=Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
+    
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+   #### Litcode
+   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://github.com/KnlnKS/leetcode-stats)
+    
   </div>
   
  </div>
