@@ -50,7 +50,15 @@ Here are some ideas to get you started:
  My hobby:\
     - photo  :<a href="https://unsplash.com/@safroalex">
     <img src="https://img.shields.io/badge/Unsplash-white?logo=Unsplash&logoColor=black&style=for-the-badge" alt="Unsplash Badge"/>
- </a> 
+    </a>
+    \
+    - languages :<a href="https://www.duolingo.com/profile/alexsafr">
+    <img src="https://img.shields.io/badge/Duolingo-green?logo=duolingo&logoColor=white&style=for-the-badge" alt="Duolingo Badge"/>
+    </a>
+    \
+    - running/strength sports :<a href="https://www.mapmyrun.com/auth/login?next=%2Factivity_feed">
+    <img src="https://img.shields.io/badge/underarmour-blue?logo=underarmour&logoColor=black&style=for-the-badge" alt="Underarmour Badge"/> 
+    </a>   :information_source: you can find me by email
   </div>
   
   ---
@@ -59,11 +67,11 @@ Here are some ideas to get you started:
   
    ### :hammer_and_wrench: Languages and Tools :
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
     
   </div>
   
