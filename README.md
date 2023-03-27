@@ -67,8 +67,8 @@ Here are some ideas to get you started:
   
    ### :hammer_and_wrench: Languages and Tools :
 
+   <img src="https://github.com/safroalex/safroalex/blob/main/CoDeSys.png" title="Codesys" alt="Codesys" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
