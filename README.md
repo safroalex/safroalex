@@ -20,10 +20,8 @@ Here are some ideas to get you started:
   
  <img src="https://github.com/safroalex/safroalex/blob/main/header.png" width="1500"/>
   
-  <div id="badges" align="center">
-
-  ### who are you stranger?
-    
+ <div id="badges1" align="center">
+  
   <a href="https://t.me/safroalex">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
  </a>
@@ -31,8 +29,16 @@ Here are some ideas to get you started:
   <a href="https://vk.com/safroalex">
     <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
  </a>
+   
+  </div>
   
-  #### email: alexsafr.a@ya.ru
+   <div id="badges2-email" align="center">
+   
+  <a>
+    <img src="https://img.shields.io/badge/alexsafr.a@ya.ru-darkred?logo=Email&logoColor=white&style=socialr" alt="email"/>
+   </a>
+   
+   <div id="fall-image" align="center">
     
   <img src="https://media.giphy.com/media/5Hx5bfpf3ojCADpfxb/giphy.gif" width="1500"/>
 
