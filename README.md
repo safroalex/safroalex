@@ -75,11 +75,18 @@ Here are some ideas to get you started:
    <a href="https://www.codesys.com/">
    <img src="https://github.com/safroalex/safroalex/blob/main/CoDeSys.png" title="Codesys" alt="Codesys" width="60" height="60"/>&nbsp;
     </a>
+   <a href="https://www.java.com/ru/"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+    </a>
+   <a href="https://git-scm.com/">  
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+    </a> 
+   <a href="https://www.docker.com/"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+    </a>
+   <a href="https://www.figma.com">  
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
-    
+    </a>
   </div>
   
   ---
