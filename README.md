@@ -103,7 +103,7 @@ Here are some ideas to get you started:
    <div id="my stats2" align="left">
       
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=buefy&hide=Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=buefy&hide=VHDL,Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
       
    </div>
     
