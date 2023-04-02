@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Unsplash-white?logo=Unsplash&logoColor=black&style=for-the-badge" alt="Unsplash Badge"/>
     </a>
     \
-    - languages :<a href="https://www.duolingo.com/profile/alexsafr">
+    - languages :<a href="https://www.duolingo.com/profile/safroalex">
     <img src="https://img.shields.io/badge/Duolingo-green?logo=duolingo&logoColor=white&style=for-the-badge" alt="Duolingo Badge"/>
     </a>
     \
