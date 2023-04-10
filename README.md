@@ -1,21 +1,3 @@
-### 
-
-<!--
-**safroalex/safroalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ....
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div id="header" align="center">
   
  <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/>
@@ -85,23 +67,23 @@ Here are some ideas to get you started:
   
   ### Stats
 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=buefy&mode=weekly)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
     
    </div>
   
    <div id="my stats2" align="left">
       
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=buefy&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=buefy&hide=VHDL,Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=midnight-purple&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=midnight-purple&hide=VHDL,Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
       
    </div>
     
   <div id="my stats3" align="left">
     
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&&custom_title=%20&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
- <!--- #### Litcode -->
- <!--- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://leetcode.com/alexsafr/) -->
+ <!-- #### Litcode -->
+ <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://leetcode.com/alexsafr/) -->
     
   </div>
   
