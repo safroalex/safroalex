@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   
   <div id="Languages and Tools" align="left">
   
-   ### Languages and Tools:
+   ### Tools
    <a href="https://www.codesys.com/">
    <img src="https://github.com/safroalex/safroalex/blob/main/CoDeSys.png" title="Codesys" alt="Codesys" width="60" height="60"/>&nbsp;
     </a>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   
    <div id="my stats1" align="left">
   
-  ### My Stats :
+  ### Stats
 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=buefy&mode=weekly)](https://git.io/streak-stats)
     
