@@ -18,60 +18,52 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   
- <img src="https://github.com/safroalex/safroalex/blob/main/header.png" width="1500"/>
-  
- <div id="badges1" align="center">
+ <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/>
+   
+   <div id="image" align="center">
+    
+  <img src="https://github.com/safroalex/safroalex/blob/main/whiteStripe.jpg" width="1500"/>
+
+   <div id="badges1" align="center">
   
   <a href="https://t.me/safroalex">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
  </a>
   
   <a href="https://vk.com/safroalex">
-    <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-grey?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
  </a>
-   
-  </div>
-  
-   <div id="badges2-email" align="center">
-   
-  <a>
-    <img src="https://img.shields.io/badge/alexsafr.a@ya.ru-darkred?logo=Email&logoColor=white&style=socialr" alt="email"/>
-   </a>
-   
-   <div id="fall-image" align="center">
-    
-  <img src="https://media.giphy.com/media/U2ii5GIzMGU3m/giphy.gif" width="600"/>
-
+     
  </div>
   
-  ---
+  
   
   <div id="about me" align="left">
   
-  ### :man_technologist: About Me :
- I am:\
-    - :telescope: studying at Peter the Great University in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.\
-    - :zap: doing an internship in an IT campaign.
+  ### About Me:
     
- My hobby:\
-    - photo  :<a href="https://unsplash.com/@safroalex">
-    <img src="https://img.shields.io/badge/Unsplash-white?logo=Unsplash&logoColor=black&style=for-the-badge" alt="Unsplash Badge"/>
-    </a>
+   :white_circle: studying at Peter the Great University in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.\
+   :white_circle: doing an internship in an IT campaign.
+    
+ hobies:\
+    <a href="https://unsplash.com/@safroalex">
+    <img src="https://img.shields.io/badge/Unsplash-black?logo=Unsplash&logoColor=white&style=for-the-badge" alt="Unsplash Badge"/>
+    </a> :white_circle: photo
     \
-    - languages :<a href="https://www.duolingo.com/profile/safroalex">
-    <img src="https://img.shields.io/badge/Duolingo-green?logo=duolingo&logoColor=white&style=for-the-badge" alt="Duolingo Badge"/>
-    </a>
+    <a href="https://www.duolingo.com/profile/safroalex">
+    <img src="https://img.shields.io/badge/Duolingo-black?logo=duolingo&logoColor=white&style=for-the-badge" alt="Duolingo Badge"/>
+    </a> :white_circle: languages
     \
-    - running/strength sports :<a href="https://www.mapmyrun.com/auth/login?next=%2Factivity_feed">
-    <img src="https://img.shields.io/badge/underarmour-blue?logo=underarmour&logoColor=black&style=for-the-badge" alt="Underarmour Badge"/> 
-    </a>   :information_source: you can find me by email
-  </div>
-  
-  ---
+    <a href="https://www.mapmyrun.com/auth/login?next=%2Factivity_feed">
+    <img src="https://img.shields.io/badge/underarm-black?logo=underarmour&logoColor=white&style=for-the-badge" alt="Underarmour Badge"/> 
+    </a> :white_circle: running/strength sports - you can find me by email
+  </div> 
+     &nbsp
+   <img src="https://github.com/safroalex/safroalex/blob/main/alsoStripe.jpg" width="1500"/>
   
   <div id="Languages and Tools" align="left">
   
-   ### :hammer_and_wrench: Languages and Tools :
+   ### Languages and Tools:
    <a href="https://www.codesys.com/">
    <img src="https://github.com/safroalex/safroalex/blob/main/CoDeSys.png" title="Codesys" alt="Codesys" width="60" height="60"/>&nbsp;
     </a>
@@ -89,13 +81,10 @@ Here are some ideas to get you started:
     </a>
   </div>
   
-  ---
-  
    <div id="my stats1" align="left">
   
-  ### :fire: My Stats :
-  
-  #### GitHub
+  ### My Stats :
+
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=buefy&mode=weekly)](https://git.io/streak-stats)
     
    </div>
