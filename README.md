@@ -111,8 +111,8 @@ Here are some ideas to get you started:
     
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
-   #### Litcode
-   [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://leetcode.com/alexsafr/)
+ <!--- #### Litcode -->
+ <!--- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://leetcode.com/alexsafr/) -->
     
   </div>
   
