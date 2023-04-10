@@ -67,9 +67,8 @@
       
    </div>
      
-   <div id="Tools" align="left">
-  
-   ### Tools
+   <div id="Tools" align="center">
+
    <a href="https://www.codesys.com/">
    <img src="https://github.com/safroalex/safroalex/blob/main/CoDeSys.png" title="Codesys" alt="Codesys" width="60" height="60"/>&nbsp;
     </a>
