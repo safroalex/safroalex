@@ -43,7 +43,33 @@
      &nbsp
    <img src="https://github.com/safroalex/safroalex/blob/main/alsoStripe.jpg" width="1500"/>
   
-  <div id="Languages and Tools" align="left">
+  
+   <div id="my stats1" align="left">
+  
+  ### Stats
+
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
+    
+   </div>
+  
+    
+  <div id="my stats3" align="left">
+    
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&&custom_title=%20&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+ <!-- #### Litcode -->
+ <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://leetcode.com/alexsafr/) -->
+    
+  </div>
+     
+   <div id="my stats2" align="left">
+      
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=midnight-purple&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=midnight-purple&hide=VHDL,Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
+      
+   </div>
+     
+   <div id="Languages and Tools" align="left">
   
    ### Tools
    <a href="https://www.codesys.com/">
@@ -61,30 +87,6 @@
    <a href="https://www.figma.com">  
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
     </a>
-  </div>
-  
-   <div id="my stats1" align="left">
-  
-  ### Stats
-
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
-    
-   </div>
-  
-   <div id="my stats2" align="left">
-      
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=midnight-purple&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=midnight-purple&hide=VHDL,Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats)
-      
-   </div>
-    
-  <div id="my stats3" align="left">
-    
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&&custom_title=%20&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
- <!-- #### Litcode -->
- <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://leetcode.com/alexsafr/) -->
-    
   </div>
   
  </div>
