@@ -40,7 +40,7 @@ Here are some ideas to get you started:
    
    <div id="fall-image" align="center">
     
-  <img src="https://github.com/safroalex/safroalex/blob/main/fall-image.gif" width="1100"/>
+  <img src="https://media.giphy.com/media/U2ii5GIzMGU3m/giphy.gif" width="600"/>
 
  </div>
   
