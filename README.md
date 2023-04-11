@@ -30,15 +30,15 @@
  hobies:\
     <a href="https://unsplash.com/@safroalex">
     <img src="https://img.shields.io/badge/Unsplash-black?logo=Unsplash&logoColor=white&style=for-the-badge" alt="Unsplash Badge"/>
-    </a> :white_circle: photo
+    </a>  photo
     \
     <a href="https://www.duolingo.com/profile/safroalex">
     <img src="https://img.shields.io/badge/Duolingo-black?logo=duolingo&logoColor=white&style=for-the-badge" alt="Duolingo Badge"/>
-    </a> :white_circle: languages
+    </a>  languages
     \
     <a href="https://www.mapmyrun.com/auth/login?next=%2Factivity_feed">
     <img src="https://img.shields.io/badge/underarm-black?logo=underarmour&logoColor=white&style=for-the-badge" alt="Underarmour Badge"/> 
-    </a> :white_circle: running/strength sports - you can find me by email
+    </a>  running/strength sports - you can find me by email
   </div> 
      &nbsp
    <img src="https://github.com/safroalex/safroalex/blob/main/alsoStripe.jpg" width="1500"/>
