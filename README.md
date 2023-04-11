@@ -24,7 +24,7 @@
   
   ### About Me:
     
-   :white_circle: studying at Peter the Great University in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.\
+   :white_circle: studying at University of Peter the Great of  in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.\
    :white_circle: doing an internship in an IT campaign.
     
  hobies:\
