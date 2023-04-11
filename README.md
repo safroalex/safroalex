@@ -42,7 +42,7 @@
   </div> 
      &nbsp
    <img src="https://github.com/safroalex/safroalex/blob/main/alsoStripe.jpg" width="1500"/>
-  
+     &nbsp 
   
    <div id="my stats1" align="center">
 
