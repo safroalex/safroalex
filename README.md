@@ -48,7 +48,7 @@
 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
     
-   </div>
+   </div> 
   
     
   <div id="my stats2" align="left">
