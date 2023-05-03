@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   
  <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/>
    
