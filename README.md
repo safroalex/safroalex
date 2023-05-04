@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   
  <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/>
    
@@ -46,7 +46,7 @@
 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=safroalex&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
     
-   </div>
+   </div> 
   
     
   <div id="my stats2" align="left">
