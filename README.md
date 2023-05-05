@@ -18,7 +18,7 @@
      
  </div>
   
-<div id="about me" align="left"> 
+<div id="about me" align="left">
   
   ### About Me:
 
