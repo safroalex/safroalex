@@ -1,6 +1,6 @@
 <div id="header" align="center"> 
   
- <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/>
+ <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/> 
    
    <div id="image" align="center"> 
     
