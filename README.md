@@ -2,7 +2,7 @@
   
  <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/>
    
-   <div id="image" align="center"> 
+   <div id="image" align="center">
     
   <img src="https://github.com/safroalex/safroalex/blob/main/whiteStripe.jpg" width="1500"/>
 
