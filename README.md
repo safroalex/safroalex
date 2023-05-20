@@ -6,7 +6,7 @@
     
   <img src="https://github.com/safroalex/safroalex/blob/main/whiteStripe.jpg" width="1500"/>
 
-   <div id="badges1" align="center">
+   <div id="badges1" align="center"> 
   
   <a href="https://t.me/safroalex">
     <img src="https://img.shields.io/badge/telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
