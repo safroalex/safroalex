@@ -16,7 +16,7 @@
   
 <div id="about me" align="left">
   
-  ### About:
+  ### 
  hobies:\
     <a href="https://unsplash.com/@safroalex">
     <img src="https://img.shields.io/badge/Unsplash-black?logo=Unsplash&logoColor=white&style=for-the-badge" alt="Unsplash Badge"/>
