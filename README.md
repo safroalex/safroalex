@@ -1,10 +1,6 @@
 <div id="header" align="center"> 
   
  <img src="https://github.com/safroalex/safroalex/blob/main/newHeader.png" width="1500"/>
-   
-   <div id="image" align="center">
-    
-  <img src="https://github.com/safroalex/safroalex/blob/main/whiteStripe.jpg" width="1500"/>
 
    <div id="badges1" align="center"> 
   
@@ -20,11 +16,7 @@
   
 <div id="about me" align="left">
   
-  ### About Me:
-
-   :white_circle: studying at University of Peter the Great of  in St. Petersburg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as a software engineer.\
-   :white_circle: doing an internship in an IT campaign.
-    
+  ### About:
  hobies:\
     <a href="https://unsplash.com/@safroalex">
     <img src="https://img.shields.io/badge/Unsplash-black?logo=Unsplash&logoColor=white&style=for-the-badge" alt="Unsplash Badge"/>
@@ -39,7 +31,7 @@
     </a>  running/strength sports - you can find me by email
   </div> 
      &nbsp
-   <img src="https://github.com/safroalex/safroalex/blob/main/alsoStripe.jpg" width="1500"/>
+   <img src="https://github.com/safroalex/safroalex/blob/main/whiteStripe.jpg" width="1500"/>
      &nbsp 
   
    <div id="my stats1" align="center">
