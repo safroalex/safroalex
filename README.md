@@ -41,7 +41,7 @@
    </div> 
   
     
-  <div id="my stats2" align="left">
+  <div id="my stats2" align="center">
     
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&&custom_title=%20&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
