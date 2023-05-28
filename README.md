@@ -43,8 +43,7 @@
     
   <div id="my stats2" align="center">
     
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=safroalex&&custom_title=%20&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safroalex&&custom_title=%20&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  <!-- #### Litcode -->
  <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=alexsafr)](https://leetcode.com/alexsafr/) -->
     
