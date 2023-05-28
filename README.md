@@ -54,7 +54,7 @@
       
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safroalex&count_private=true&show_icons=true&theme=midnight-purple&show_owner=true&hide=stars,contribs&custom_title)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
  <!---  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safroalex&layout=compact&theme=midnight-purple&hide=VHDL,Fortran,C,Pascal,Makefile,Batchfile,Shell)](https://github.com/anuraghazra/github-readme-stats) --->
-      
+ <!---     
    </div>
      
    <div id="Tools" align="center">
@@ -75,6 +75,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
     </a>
   </div>
-  
+  --->
  </div>
   
